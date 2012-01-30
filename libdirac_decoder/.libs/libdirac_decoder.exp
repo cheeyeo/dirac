@@ -1,0 +1,5 @@
+dirac_buffer
+dirac_decoder_close
+dirac_decoder_init
+dirac_parse
+dirac_set_buf
